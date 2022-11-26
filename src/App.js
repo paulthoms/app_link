@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          <a href='https://drive.google.com/drive/folders/1Ith7LGKVLCQXyhirpc65dAqRFeJoL5TD' target="_blank" className = "color-text">I Love You</a>
+          <a href='https://drive.google.com/drive/folders/1Ith7LGKVLCQXyhirpc65dAqRFeJoL5TD' rel="noopener" className = "color-text">I Love You</a>
         </p>
       </header>
     </div>
